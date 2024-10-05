@@ -96,7 +96,7 @@ function App() {
 
   return (
     <div className="Calculator">
-      <h1>SEAN GLENN B. MAGCALAS-IT3A</h1>
+      <h1>Calculator of Sean Glenn B. Magcalas-IT3A</h1>
       <div className="Calcucontainer">
         <div className="Displaycon">
         <Display display ={disp}/>
